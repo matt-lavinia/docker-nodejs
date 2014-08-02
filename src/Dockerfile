@@ -4,7 +4,6 @@
 # 1. Install docker (http://docker.io)
 # 2. Checkout source: git@github.com:gasi/docker-node-hello.git
 # 3. Build container: docker build .
-
 FROM    centos:centos6
 
 # Enable EPEL for Node.js
